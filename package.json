@@ -1,6 +1,6 @@
 {
   "name": "wangyi-npm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
   "description": "antd-theme",
   "keywords": [
@@ -48,8 +48,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "peerDependencies": {
-  },
+  "peerDependencies": {},
   "bundledDependencies": [
     "renderized",
     "super-streams"
