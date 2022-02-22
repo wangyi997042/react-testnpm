@@ -1,6 +1,24 @@
 {
   "name": "wangyi-npm",
   "version": "0.1.0",
+  "private": false,
+  "description": "antd-theme",
+  "keywords":["node.js","antd", "react"],
+  "homepage": "https://www.npmjs.com/package/wangyi-npm",
+  "bugs":{"url":"https://github.com/wangyi997042/wangyi-npm","email":"wangyi997042@163.com"},
+  "license": "ISC",
+  "author": "wangyi997042",
+  "contributors":[{"name":"wangyi997042","email":"wangyi997042@163.com"}],
+  "files": "",
+  "main": "./src/index.js",
+  "bin": "",
+  "man": "",
+  "directories": "",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/wangyi997042/wangyi-npm"
+	},
+  "config": { "port" : "8080" },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
@@ -16,6 +34,16 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "peerDependencies": {
+    "tea": "2.x"
+  },
+  "bundledDependencies": [
+    "renderized", "super-streams"
+  ],
+  "engines": {"node": "14.x"},
+  "os" : [ "win32", "darwin", "linux" ],
+  "cpu" : [ "x64", "ia32" ],
+  "publishConfig": {},
   "eslintConfig": {
     "extends": [
       "react-app",
