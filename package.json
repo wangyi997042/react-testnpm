@@ -28,7 +28,7 @@
   "directories": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wangyi997042/wangyi-npm"
+    "url": "git+https://github.com/wangyi997042/wangyi-npm.git"
   },
   "config": {
     "port": "8080"
