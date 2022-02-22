@@ -8,9 +8,9 @@
     "antd",
     "react"
   ],
-  "homepage": "https://www.npmjs.com/package/wangyi-npm",
+  "homepage": "https://github.com/wangyi997042/wangyi-npm",
   "bugs": {
-    "url": "https://github.com/wangyi997042/wangyi-npm",
+    "url": "https://github.com/wangyi997042/wangyi-npm/issues",
     "email": "wangyi997042@163.com"
   },
   "license": "ISC",
@@ -49,7 +49,6 @@
     "eject": "react-scripts eject"
   },
   "peerDependencies": {
-    "tea": "2.x"
   },
   "bundledDependencies": [
     "renderized",
