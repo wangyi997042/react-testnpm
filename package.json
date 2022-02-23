@@ -21,7 +21,7 @@
       "email": "wangyi997042@163.com"
     }
   ],
-  "files": "",
+  "files": "build",
   "main": "./src/index.js",
   "bin": "",
   "man": "",
